@@ -11,6 +11,15 @@ Dual Univers most Advanced industry control script
 <br>
 <br>
 <br>
+
+Control your industries, start, maintain, stop
+Check all ingame items and their recipes, find the right available industry to craft for it
+Monitor your containers and check if you have enough material to craft desired item
+
+<br>
+<br>
+<br>
+<br>
    
 # HOW TO INSTALL:
 **IMPORTANT!**
