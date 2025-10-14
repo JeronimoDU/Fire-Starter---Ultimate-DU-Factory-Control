@@ -34,6 +34,7 @@ Copy from github the content of Jero Fire Starter Ultimate Factory Control vx.x.
 
 Launch the game
 Paste from clipboard into a programming board
+In build mode, rename the 2 screens: screen1 and screen2
 
 
 Link requierements:
